@@ -3,7 +3,7 @@ verdaccio auth plugin for user list authentication
 ## Install
 
 ```
-npm install -g verdaccio-bitbucket
+npm install -g verdaccio-auth-username
 ```
 
 ## usage
