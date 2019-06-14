@@ -2,14 +2,19 @@
   "name": "verdaccio-auth-username",
   "version": "1.1.0",
   "main": "index.js",
-  "homepage": "https://github.com/wizardpisces/vanilla-dom-log.git",
+  "homepage": "https://github.com/wizardpisces/verdaccio-auth-username.git",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wizardpisces/vanilla-dom-log.git"
+    "url": "git+https://github.com/wizardpisces/verdaccio-auth-username.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "verdaccio",
+    "authentication",
+    "plugin"
+  ],
   "author": "",
   "license": "ISC",
   "description": ""
